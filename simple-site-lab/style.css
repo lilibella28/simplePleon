@@ -1,0 +1,77 @@
+html{
+
+    background-color: rgb(132, 203, 234);
+  
+
+  
+  
+  
+}
+
+body{
+    
+    border: 5px solid rgb(104, 206, 145);
+    width: 800px;
+    height: auto;
+    margin: auto;
+    margin-top: 80px;
+    padding:50px;
+    text-align: center;
+    font-family: 'IM Fell English SC', serif;
+    font-family: 'Roboto', sans-serif;
+}
+  
+
+h1{
+    margin: auto;
+    width: 50%;
+    padding:5px;
+    font-size: 30px;
+    color: white;
+
+    
+}
+h2 {
+    color: white;
+    text-align: left;
+}
+
+p{
+    color: white;
+    position: static;
+    line-height: 1.5;
+    text-align: justify;
+   
+    
+}
+img{
+
+    width: 250px;
+    float: right;
+
+}
+
+
+ nav > a{
+    display: inline-flex;
+    justify-content: center;
+    font-size: 26px;
+    color:  rgb(81, 198, 58);
+    border-left: 2px solid rgba(128, 135, 137, 0.8);
+    margin-left: 5px;
+    padding-left: 5px;
+    /* border-right: 1px solid black; */
+   
+}
+
+#about-us {
+    color: white;
+    text-decoration: none;
+   border: none;
+
+}
+
+#twitch-only{
+    border: none;
+}
+
